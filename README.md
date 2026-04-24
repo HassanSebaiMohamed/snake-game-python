@@ -12,6 +12,9 @@ A simple snake game built using Python and the `curses` library.
 
 This project was built by following a tutorial, then improved by adding new features like score, timer, and dynamic speed.
 
+# How to Run
+python snake.py
+
 ##  Screenshot
 
 ![Game](game.png)
